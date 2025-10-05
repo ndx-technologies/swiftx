@@ -1,5 +1,5 @@
-* `CustomKeyURLCache ` — cache responses at custom key (e.g. URL Path)
-* `StatusURLCache` — track hit count metric
+* CustomKeyURLCache — cache responses at custom key (e.g. URL Path)
+* StatusURLCache — track hit count metric
 
 ### ADR
 
